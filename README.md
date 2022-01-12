@@ -12,6 +12,6 @@ When called, this service must query a database for today's weather (temperature
 <li> Hibernate </li>
 <li> PostgreSQL </li>
 <li> JUnit5 </li></ul>
-<img src="/Users/limosk/Desktop/weather_service/base.png" alt="Created Database">
+<img src="https://github.com/moskalenko9381/weather_service/blob/master/base.png" alt="Created Database">
 
 All results are saved in database "weather", current temperature the user may see at http://localhost:8080/weather .
